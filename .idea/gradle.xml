@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AceleracaoTrybe/Aula01Kotlin" />
+        <option name="gradleJvm" value="homebrew-22" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/AceleracaoTrybe/Aula01Kotlin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AceleracaoTrybe/Aula02Kotlin" />
+        <option name="gradleHome" value="" />
+        <option name="gradleJvm" value="homebrew-22" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/AceleracaoTrybe/Aula02Kotlin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
