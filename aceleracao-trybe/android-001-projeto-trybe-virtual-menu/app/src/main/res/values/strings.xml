@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trybe Virtual Menu</string>
+    <string name="main_title_text">Cardápio Online</string>
+    <string name="back">Voltar</string>
+    <string name="detail_text">Detalhe do Prato</string>
+    <string name="description_text">Descrição do Prato</string>
+    <string name="price_text">R$ 00,00</string>
+</resources>
